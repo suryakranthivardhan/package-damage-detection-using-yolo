@@ -1,9 +1,10 @@
-opencv-python
+opencv-python-headless
 groq
 matplotlib
 requests
 scikit-learn
 ultralytics
+
 
 
 
