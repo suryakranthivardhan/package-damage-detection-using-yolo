@@ -1,2 +1,5 @@
 opencv-python-headless
-albumentations
+groq
+matplotlib
+requests
+scikit-learn
