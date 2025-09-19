@@ -3,3 +3,5 @@ groq
 matplotlib
 requests
 scikit-learn
+ultralytics
+
